@@ -8,4 +8,4 @@ If that works then you can run the game smoothly
 
 ABOUT THE GAME:
 
-The game is very simple, hit the ball to the other side without the opponent touching the ball. A cool feature is that when you press the spacebar
+The game is very simple, hit the ball to the other side without the opponent touching the ball. A cool feature is that when you press the spacebar, the ball goes faster. The start button goes away after we start the game
