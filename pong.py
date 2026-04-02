@@ -160,7 +160,7 @@ while True:
         start_text = font.render("Click Start to Play", True, WHITE)
         screen.blit(start_text, (WIDTH // 2 - start_text.get_width() // 2, HEIGHT // 2 - 40))
 
-    if not game_over:
+    if not game_over and not game_started:
         button_text = font.render("Start", True, BLACK)
         pygame.draw.rect(screen, WHITE, start_button)
         screen.blit(button_text, (start_button.centerx - button_text.get_width() // 2,
