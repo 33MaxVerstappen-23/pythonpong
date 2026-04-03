@@ -2,7 +2,7 @@ Please install pygame before you try this game out with this command in your pow
 
 I would recommend installing homebrew too using this command in your terminal (in mac only): brew install sdl2 sdl2_image sdl2_mixer sdl2_ttf pkg-configportmidi
 
-Also Test it using this command: in your terminal or powershell: python3 -m pygame.examples.aliens
+Also Test it using this command: in your terminal: python3 -m pygame.examples.aliens
 
 If that works then you can run the game smoothly
 
